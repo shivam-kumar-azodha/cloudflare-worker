@@ -1,0 +1,16 @@
+{
+  "name": "cloudflare-worker",
+  "version": "1.0.0",
+  "main": "worker.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "linkedom": "^0.13.7"
+  },
+  "devDependencies": {
+    "esbuild-loader": "^2.13.1",
+    "webpack": "^5.46.0",
+    "webpack-cli": "^4.7.2"
+  }
+}

@@ -1,0 +1,10 @@
+DO changes in worker.js
+
+1. create a build by npm run build OR npx webpack
+2. copy content of dist/worker.js
+
+paste it to cloudflare worker code
+
+URL - get-meta-data.shivam-103.workers.dev
+
+use it like get-meta-data.shivam-103.workers.dev?url=presidio.gov
